@@ -242,7 +242,5 @@ Desde el **Dashboard** del admin, haz clic en **"Ejecutar Core"**. El sistema:
 
 ---
 
-## Autor
+Roberto Manosalvas
 
-Desarrollado para la materia de **Ingeniería Web**  
-Universidad | Semestre 2026-1
