@@ -1,12 +1,5 @@
 # InvAdmin — Sistema de Gestión de Inventarios Inteligente
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green?logo=supabase)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-orange)
-![tRPC](https://img.shields.io/badge/tRPC-v11-blue)
-![NextAuth](https://img.shields.io/badge/NextAuth-v5-purple)
-
 Panel de administración MVC para el **Core de Reabastecimiento Automático** de inventarios, desarrollado con Next.js 15, tRPC, Supabase y NextAuth.
 
 ---
