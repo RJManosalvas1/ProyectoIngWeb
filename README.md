@@ -242,4 +242,5 @@ Desde el **Dashboard** del admin, haz clic en **"Ejecutar Core"**. El sistema:
 ---
 
 Roberto Manosalvas
+Ashlee Soledispa
 
